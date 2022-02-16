@@ -1,0 +1,1 @@
+#si, porque uno de los lados sera la base y el otro la altura
